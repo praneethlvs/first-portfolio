@@ -1,0 +1,8 @@
+for global body :::::   font-family: 'Poppins', sans-serif ;   font-size: 13px;
+                                                                 
+                                                                
+for global Heading ::::::   font-family: 'Neuton', serif; font-weight: 600;
+
+theme color ::::::: #FFBE13;
+
+<a href='https://www.freepik.com/vectors/business'>Business vector created by freepik - www.freepik.com</a>

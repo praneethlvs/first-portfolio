@@ -1,0 +1,122 @@
+/* ##################### external css file############# */
+
+/* start of global FONT BODY  */
+body{
+    font-family : 'Poppins',
+    sans-serif;
+    font-weight: 600;
+
+}
+
+ /* End of Global FONT body  */
+
+   /* for heading font  */
+
+ .font{
+      font-family: 'Neuton',
+      serif;
+      font-weight: 600;
+
+ }
+
+ /* theme color  */
+
+ .mycolor{
+     background-color: #FFBE13;
+
+ }
+
+/* this is for underdash  */
+ .underline {
+     width: 5%;
+     background-color: black;
+     height: 2px;
+     
+ } 
+
+
+ /* theme colour for text  */
+ .textmycolor{
+     color: #FFBE13;
+ }
+
+ /* global styling end  */
+
+ /* ###############################main styling start############################  */
+
+ /* #############start of navbar styling#######################  */
+  #mainnavbar{
+      font-size: medium;
+      font-family: 'Neuton', serif;
+
+  }
+
+  /* for setting band text color  */
+
+    #mainnavbar .navbar-brand{
+        color: #ffbe13;
+        font-size: 30px;
+        letter-spacing: 5px;
+    }
+    /* ###############this is for nav link font################### */
+    #mainnavbar .nav-link{
+        font-size: large;
+    }
+
+    /* this is for activ button color  */
+    #mainnavbar .navbar-nav .active .nav-link {
+        color: #ffbe13;
+    }
+
+    /* ####################for hover option navlink############# */
+    #mainnavbar .navbar-nav .nav-link:hover {
+        color: #ffbe13;
+    }
+    /* style for main name in hero  */
+    #myname{
+         font-size: 58px;
+         font-family: 'Neuton',
+         serif;
+         font-weight: 600;
+    }
+    /* this is for spacing para  */
+
+    .paraspacing{
+        line-height: 25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* #############end of navbar styling#######################  */
